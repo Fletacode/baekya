@@ -50,11 +50,14 @@
 
 ## 🔧 기술 스택
 
-- **백엔드:** Spring Boot, OpenAI Assistant API
-- **프론트엔드:** Javascript, React
+- **백엔드:** Spring Boot, OpenAI Assistant API, Perplexity AI API, docker, aws ec2
+- **프론트엔드:** Javascript, React, aws s3
 
 ## 발표자료
 
 [23팀_발표자료.pdf](https://github.com/user-attachments/files/18515601/23._.pdf)
 
+## 해커톤 현장 스케치 영상
+
+[스케치 영상](https://youtu.be/qdphrX0sSwc?si=tfv46_Kjxa-bPJvo)
 
