@@ -1,3 +1,7 @@
+# 2025 GDGoC KR HACKATHON
+`team 23 `
+장려상을 수상했습니다.
+
 # 🎉 서비스명 🎉
 
 "시선집중"
@@ -48,3 +52,9 @@
 
 - **백엔드:** Spring Boot, OpenAI Assistant API
 - **프론트엔드:** Javascript, React
+
+## 발표자료
+
+[23팀_발표자료.pdf](https://github.com/user-attachments/files/18515601/23._.pdf)
+
+
